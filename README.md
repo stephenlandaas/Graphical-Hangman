@@ -1,2 +1,7 @@
 # Hangman-2.0
-An updated version of my old Hangman game, entirely console-based written in C++ with a rudimentary graphical interface.
+An updated version of my old Hangman game, entirely console-based & written in C++ with a rudimentary graphical interface.
+
+Written by an aspiring Computer Science student in Visual Studio using C++ and basic Windows Console API functions for setting colors, toggling the user cursor, and so on.
+This program will run in a Windows environment and should be compiled and executed using Visual Studio (although slight changes might need to be made for new versions of VS) as this code ages.
+
+All graphics of this game are created through ASCII art without any special graphical libraries being used other than the "Windows.h" library which only served to set colors and move the cursor around the console screen. This game is suited for a console of size 120 x 30, other sizes may result in off-centered graphics or unreadable text.
